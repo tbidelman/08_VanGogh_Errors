@@ -1,0 +1,23 @@
+Find errors in the Van Gogh Site!
+
+Your task is to find all of the errors in the HTML code.  There are 10 errors.
+
+You do not need to change any of the existing CSS.  If the CSS is written one
+way, and the HTML is written another, then the HTML is wrong!
+
+HINTS:
+ - Use van-gogh.png as reference for what the site should look like.
+ - Check ALL opening and closing tags.
+ - Make sure all of the tags are valid and used correctly.
+
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10. 
+
